@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM python
+FROM python:2
 
 # Install Node.js
 RUN \
